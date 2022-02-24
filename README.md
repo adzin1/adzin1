@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew. CS grad December 2022
 - 👀 I’m interested in blockchain & web development
-- 🌱 I’m currently learning Solidity, Javascript (React, Node.js) Express, MongoDB
+- 🌱 I’m currently learning Solidity, Javascript (React, Node.js Express, MongoDB)
 - 💞️ I’m looking to collaborate on open source web projects
 - 📫 How to reach me:
       Email:    deasonam@gmail.com
