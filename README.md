@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew. CS grad December 2021
+- 👋 Hi, I’m Andrew. CS grad December 2022
 - 👀 I’m interested in blockchain & web development
 - 🌱 I’m currently learning Solidity, Javascript (React, Node.js) Express, MongoDB
 - 💞️ I’m looking to collaborate on open source web projects
